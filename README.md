@@ -107,6 +107,7 @@ The code is organized by topic to make navigation easier:
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0909-snakes-and-ladders) |
 ## Union-Find
@@ -118,4 +119,8 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0200-number-of-islands](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0909-snakes-and-ladders) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
