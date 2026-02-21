@@ -58,6 +58,7 @@ The code is organized by topic to make navigation easier:
 | [0012-integer-to-roman](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
@@ -143,6 +144,7 @@ The code is organized by topic to make navigation easier:
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0392-is-subsequence) |
@@ -168,6 +170,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
