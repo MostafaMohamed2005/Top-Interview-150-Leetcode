@@ -87,6 +87,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -127,6 +128,7 @@ The code is organized by topic to make navigation easier:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
