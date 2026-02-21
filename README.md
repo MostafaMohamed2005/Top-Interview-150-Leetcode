@@ -126,4 +126,12 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
