@@ -35,6 +35,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
