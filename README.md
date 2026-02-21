@@ -50,6 +50,7 @@ The code is organized by topic to make navigation easier:
 | [0112-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -79,5 +80,14 @@ The code is organized by topic to make navigation easier:
 | [0112-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
