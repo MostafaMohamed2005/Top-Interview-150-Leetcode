@@ -40,6 +40,7 @@ The code is organized by topic to make navigation easier:
 | [0036-valid-sudoku](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0068-text-justification) |
@@ -69,6 +70,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0012-integer-to-roman](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
@@ -184,5 +186,6 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
