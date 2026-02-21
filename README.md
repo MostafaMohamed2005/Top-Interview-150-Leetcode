@@ -80,6 +80,7 @@ The code is organized by topic to make navigation easier:
 | [0128-longest-consecutive-sequence](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0205-isomorphic-strings) |
@@ -102,6 +103,7 @@ The code is organized by topic to make navigation easier:
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -256,10 +258,15 @@ The code is organized by topic to make navigation easier:
 | [0086-partition-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
