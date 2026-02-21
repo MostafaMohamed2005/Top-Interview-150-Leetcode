@@ -37,9 +37,14 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0009-palindrome-number](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
