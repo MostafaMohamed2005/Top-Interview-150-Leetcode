@@ -34,6 +34,7 @@ The code is organized by topic to make navigation easier:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0045-jump-game-ii) |
@@ -86,6 +87,7 @@ The code is organized by topic to make navigation easier:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0125-valid-palindrome) |
@@ -105,6 +107,7 @@ The code is organized by topic to make navigation easier:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
