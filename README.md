@@ -110,6 +110,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0039-combination-sum) |
+| [0064-minimum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0909-snakes-and-ladders) |
@@ -120,6 +121,7 @@ The code is organized by topic to make navigation easier:
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0909-snakes-and-ladders) |
 ## Backtracking
@@ -134,4 +136,8 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
