@@ -28,3 +28,15 @@ The code is organized by topic to make navigation easier:
 ├── Dynamic-Programming/
 ├── README.md
 └── LICENSE
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0061-rotate-list) |
+<!---LeetCode Topics End-->
