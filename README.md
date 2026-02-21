@@ -1,2 +1,30 @@
-# Top-Interview-150-Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 💻 LeetCode Top Interview 150 Solutions
+
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge)
+![Standard](https://img.shields.io/badge/C++-17/20-blue?style=flat)
+
+## 👋 About Me
+
+Hi, I'm **Mostafa El-Badrawy**! 👋
+
+Welcome to my repository dedicated to mastering Data Structures and Algorithms. I am currently working through the **LeetCode Top Interview 150** list to sharpen my problem-solving skills and prepare for technical interviews.
+
+This repository contains my solutions, explanations, and time/space complexity analysis for each problem.
+
+---
+## 📂 Repository Structure
+
+The code is organized by topic to make navigation easier:
+
+```text
+.
+├── Arrays-Hashing/
+│   ├── Contains-Duplicate/
+│   ├── Valid-Anagram/
+│   └── ...
+├── Two-Pointers/
+├── Sliding-Window/
+├── Dynamic-Programming/
+├── README.md
+└── LICENSE
