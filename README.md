@@ -35,6 +35,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ The code is organized by topic to make navigation easier:
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -65,4 +67,8 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
