@@ -36,6 +36,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0011-container-with-most-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
@@ -78,6 +79,7 @@ The code is organized by topic to make navigation easier:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0274-h-index) |
 ## Counting
@@ -88,6 +90,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0125-valid-palindrome) |
