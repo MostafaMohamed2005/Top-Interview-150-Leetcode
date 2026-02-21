@@ -45,6 +45,7 @@ The code is organized by topic to make navigation easier:
 | [0049-group-anagrams](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +109,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0015-3sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0274-h-index) |
