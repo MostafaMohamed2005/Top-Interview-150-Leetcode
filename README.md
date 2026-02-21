@@ -53,6 +53,7 @@ The code is organized by topic to make navigation easier:
 | [0199-binary-tree-right-side-view](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ The code is organized by topic to make navigation easier:
 | [0129-sum-root-to-leaf-numbers](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@ The code is organized by topic to make navigation easier:
 | [0199-binary-tree-right-side-view](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +97,8 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
