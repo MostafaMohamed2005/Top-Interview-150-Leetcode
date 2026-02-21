@@ -34,6 +34,7 @@ The code is organized by topic to make navigation easier:
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
@@ -76,10 +77,12 @@ The code is organized by topic to make navigation easier:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
