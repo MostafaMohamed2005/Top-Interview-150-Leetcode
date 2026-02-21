@@ -95,6 +95,7 @@ The code is organized by topic to make navigation easier:
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -108,6 +109,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0039-combination-sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0909-snakes-and-ladders) |
 ## Union-Find
