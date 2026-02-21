@@ -34,6 +34,7 @@ The code is organized by topic to make navigation easier:
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,10 +79,12 @@ The code is organized by topic to make navigation easier:
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,4 +101,12 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0274-h-index) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
