@@ -34,10 +34,12 @@ The code is organized by topic to make navigation easier:
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
@@ -51,4 +53,16 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
