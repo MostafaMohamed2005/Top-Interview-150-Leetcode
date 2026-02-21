@@ -40,6 +40,7 @@ The code is organized by topic to make navigation easier:
 | [0036-valid-sudoku](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@ The code is organized by topic to make navigation easier:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -182,4 +184,5 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
