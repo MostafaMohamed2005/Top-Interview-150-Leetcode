@@ -41,6 +41,7 @@ The code is organized by topic to make navigation easier:
 | [0042-trapping-rain-water](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0068-text-justification) |
@@ -64,6 +65,7 @@ The code is organized by topic to make navigation easier:
 | [0013-roman-to-integer](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
@@ -96,6 +98,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0274-h-index) |
@@ -156,6 +159,7 @@ The code is organized by topic to make navigation easier:
 | [0014-longest-common-prefix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0076-minimum-window-substring) |
