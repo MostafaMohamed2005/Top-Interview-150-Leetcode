@@ -96,6 +96,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -104,4 +105,5 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
