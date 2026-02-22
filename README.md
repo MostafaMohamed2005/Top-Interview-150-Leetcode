@@ -48,6 +48,7 @@ The code is organized by topic to make navigation easier:
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0198-house-robber](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ The code is organized by topic to make navigation easier:
 | [0070-climbing-stairs](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
@@ -80,4 +82,8 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
