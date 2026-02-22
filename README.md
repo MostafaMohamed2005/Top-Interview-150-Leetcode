@@ -37,6 +37,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0009-palindrome-number](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -80,6 +81,7 @@ The code is organized by topic to make navigation easier:
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -89,4 +91,12 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
