@@ -3,7 +3,7 @@ public:
     int findMaximizedCapital(int k, int w, vector<int>& profits, vector<int>& capital) {
         long long ans = w,index = 0,n = profits.size();
         vector<pair<long long,long long>>v;
-        multiset<long long>m;
+        priority_queue<long long>m;
 
         for(int i=0 ; i < n ; i++)
         v.push_back({capital[i],profits[i]});
@@ -13,14 +13,12 @@ public:
         while(k > 0 && next){
             next = false;
             while(n > index && ans >= v[index].first)
-            m.insert(v[index].second),index++,next = true;
+            m.push(v[index].second),index++,next = true;
 
             if(k > 0 && !m.empty()){
-                auto it = m.end();
-                it--;
-                ans += *it;
+                ans += m.top();
                 k--;
-                m.erase(it);
+                m.pop();
                 next = true;
             }
         }
