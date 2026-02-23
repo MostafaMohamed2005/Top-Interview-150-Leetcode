@@ -3,20 +3,20 @@ public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
         int n = nums1.size();
         vector<vector<int>>ans;
-        set<pair<int,pair<int,int>>>m;
+        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>m;
 
         for(int i=0 ; i < min((int)nums1.size(),k) ; i++)
-        m.insert({nums1[i]+nums2[0],{i,0}});
+        m.push({nums1[i]+nums2[0],{i,0}});
 
         while(k--){
-            pair<int,pair<int,int>>p = *m.begin();
-            m.erase(m.begin());
+            pair<int,pair<int,int>>p = m.top();
+            m.pop();
             int i = p.second.first,j = p.second.second;
             
             ans.push_back({nums1[i],nums2[j]});
             j++;
             if(j < nums2.size())
-            m.insert({nums1[i]+nums2[j],{i,j}});
+            m.push({nums1[i]+nums2[j],{i,j}});
         }
 
         return ans;
