@@ -3,7 +3,7 @@ public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
         int n = nums1.size();
         vector<vector<int>>ans;
-        multiset<pair<int,pair<int,int>>>m;
+        set<pair<int,pair<int,int>>>m;
 
         for(int i=0 ; i < min((int)nums1.size(),k) ; i++)
         m.insert({nums1[i]+nums2[0],{i,0}});
