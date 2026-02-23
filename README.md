@@ -47,6 +47,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0035-search-insert-position](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
@@ -61,6 +62,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0035-search-insert-position](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -141,4 +143,8 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
