@@ -53,6 +53,7 @@ The code is organized by topic to make navigation easier:
 | [0198-house-robber](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
+| [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,4 +111,16 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0190-reverse-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
