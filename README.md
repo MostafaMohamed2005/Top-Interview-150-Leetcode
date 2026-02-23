@@ -119,10 +119,24 @@ The code is organized by topic to make navigation easier:
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
