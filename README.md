@@ -53,6 +53,7 @@ The code is organized by topic to make navigation easier:
 | [0198-house-robber](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
 ## Binary Search
 |  |
@@ -122,5 +123,6 @@ The code is organized by topic to make navigation easier:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
