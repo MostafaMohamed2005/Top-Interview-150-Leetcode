@@ -45,6 +45,7 @@ The code is organized by topic to make navigation easier:
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -60,6 +61,7 @@ The code is organized by topic to make navigation easier:
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
