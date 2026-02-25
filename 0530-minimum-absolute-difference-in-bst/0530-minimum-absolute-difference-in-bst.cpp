@@ -12,25 +12,22 @@
 class Solution {
 public:
     int ans = 1e9;
-    multiset<int>s;
+    vector<int>v;
     void solve(TreeNode* node){
         if(node == nullptr)
-        return;
-
-
-        auto it = s.lower_bound(node->val);
-        if(it != s.end())
-        ans = min(ans,*it - node->val);
-        if(it != s.begin())
-        it--,ans=min(ans,node->val-*it);
-        s.insert(node->val);
-
+        return;   
         solve(node->left);
+        v.push_back(node->val);
         solve(node->right);
     }
 
     int getMinimumDifference(TreeNode* root) {
         solve(root);
+        for(int i=1 ; i < v.size() ; i++){
+            ans = min(ans,v[i]-v[i-1]);
+            if(i != v.size()-1)
+            ans = min(ans,v[i+1]-v[i]);
+        }
         return ans;
     }
 };
