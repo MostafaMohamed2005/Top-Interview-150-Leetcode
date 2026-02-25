@@ -108,6 +108,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,11 +163,13 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -177,4 +180,5 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
