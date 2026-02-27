@@ -86,6 +86,7 @@ The code is organized by topic to make navigation easier:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0120-triangle) |
@@ -101,6 +102,7 @@ The code is organized by topic to make navigation easier:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 ## Trie
@@ -151,6 +153,7 @@ The code is organized by topic to make navigation easier:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
