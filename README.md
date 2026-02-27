@@ -49,6 +49,7 @@ The code is organized by topic to make navigation easier:
 | [0033-search-in-rotated-sorted-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0035-search-insert-position) |
+| [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0120-triangle) |
@@ -85,6 +86,7 @@ The code is organized by topic to make navigation easier:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
@@ -161,6 +163,7 @@ The code is organized by topic to make navigation easier:
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Tree
 |  |
