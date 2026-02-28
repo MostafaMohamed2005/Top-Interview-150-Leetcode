@@ -52,6 +52,7 @@ The code is organized by topic to make navigation easier:
 | [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0137-single-number-ii) |
@@ -139,6 +140,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0191-number-of-1-bits) |
 ## Greedy
@@ -181,6 +183,7 @@ The code is organized by topic to make navigation easier:
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -193,6 +196,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -200,6 +204,7 @@ The code is organized by topic to make navigation easier:
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
