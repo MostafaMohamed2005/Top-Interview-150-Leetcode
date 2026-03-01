@@ -1,70 +1,85 @@
-							// 😉😉😉😉Please upvote if it helps 😉😉😉😉
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        //If List Contain a Single or 0 Node
-        if(head == NULL || head ->next == NULL)
-            return head;
+    ListNode* solve(int l, int r, ListNode* node){
+        if(l > r)
+        return nullptr;
+
+        if(l == r)
+        return node;
+
+        int mid = (l+r)/2;
+        ListNode* same = node,*lastNode = node;
+        int cnt = 0;
+        while(cnt != mid - l + 1){
+            if(cnt == mid - l)
+            lastNode = same;
+            same = same -> next;
+            cnt++;
+        }
+
+        lastNode -> next = nullptr;
         
-        
-        ListNode *temp = NULL;
-        ListNode *slow = head;
-        ListNode *fast = head;
-        
-        // 2 pointer appraoach / turtle-hare Algorithm (Finding the middle element)
-        while(fast !=  NULL && fast -> next != NULL)
-        {
-            temp = slow;
-            slow = slow->next;          //slow increment by 1
-            fast = fast ->next ->next;  //fast incremented by 2
-            
-        }   
-        temp -> next = NULL;            //end of first left half
-        
-        ListNode* l1 = sortList(head);    //left half recursive call
-        ListNode* l2 = sortList(slow);    //right half recursive call
-        
-        return mergelist(l1, l2);         //mergelist Function call
-            
-    }
-    
-    //MergeSort Function O(n*logn)
-    ListNode* mergelist(ListNode *l1, ListNode *l2)
-    {
-        ListNode *ptr = new ListNode(0);
-        ListNode *curr = ptr;
-        
-        while(l1 != NULL && l2 != NULL)
-        {
-            if(l1->val <= l2->val)
-            {
-                curr -> next = l1;
-                l1 = l1 -> next;
+        ListNode* left = solve(l,mid,node); 
+        ListNode* right = solve(mid+1,r,same);
+
+        //cout << "values: " << left -> val << " " << right -> val << endl;
+
+        ListNode* ans = nullptr,*x = nullptr;
+
+        while(left != nullptr && right != nullptr){
+            if(left -> val <= right -> val){
+                if(ans == nullptr)
+                ans = new ListNode(left->val),x = ans;
+                else
+                ans -> next = new ListNode(left->val),ans = ans -> next;
+                left = left -> next;
+            }else{
+                if(ans == nullptr)
+                ans = new ListNode(right->val),x = ans;
+                else
+                ans -> next = new ListNode(right->val),ans = ans -> next;
+                right = right -> next;
             }
+
+        
+        }
+
+        while(left != nullptr){
+            if(ans == nullptr)
+            ans = new ListNode(left->val),x = ans;
             else
-            {
-                curr -> next = l2;
-                l2 = l2 -> next;
-            }
-        
-        curr = curr ->next;
-        
+            ans -> next = new ListNode(left->val),ans = ans -> next;
+            left = left -> next;
         }
-        
-        //for unqual length linked list
-        
-        if(l1 != NULL)
-        {
-            curr -> next = l1;
-            l1 = l1->next;
+
+        while(right != nullptr){
+            if(ans == nullptr)
+            ans = new ListNode(right->val),x = ans;
+            else
+            ans -> next = new ListNode(right->val),ans = ans -> next;
+            right = right -> next;
         }
-        
-        if(l2 != NULL)
-        {
-            curr -> next = l2;
-            l2 = l2 ->next;
-        }
-        
-        return ptr->next;
+
+        return x;
+    }
+
+    ListNode* sortList(ListNode* head) {
+        int cnt = 0;
+        ListNode *node = head;
+        while(node != nullptr)
+        node = node -> next,cnt++;
+
+        ListNode* ans = solve(0,cnt-1,head);
+        return ans;
     }
 };
