@@ -227,5 +227,6 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
