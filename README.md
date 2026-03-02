@@ -53,6 +53,7 @@ The code is organized by topic to make navigation easier:
 | [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@ The code is organized by topic to make navigation easier:
 | [0005-longest-palindromic-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 ## Trie
@@ -184,6 +186,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0221-maximal-square) |
 ## Tree
 |  |
@@ -197,6 +200,7 @@ The code is organized by topic to make navigation easier:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -232,4 +236,5 @@ The code is organized by topic to make navigation easier:
 | [0046-permutations](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
