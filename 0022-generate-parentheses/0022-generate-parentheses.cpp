@@ -26,12 +26,14 @@ public:
             return;
         }
 
-        if(cnt < 0)
+        if(cnt < 0 || cnt > n - s.size())
         return;
 
-        s.push_back('(');
-        solve(s,n,cnt+1);
-        s.pop_back();
+        if(cnt < n - s.size()){
+            s.push_back('(');
+            solve(s,n,cnt+1);
+            s.pop_back();
+        }
         s.push_back(')');
         solve(s,n,cnt-1);
         s.pop_back();
