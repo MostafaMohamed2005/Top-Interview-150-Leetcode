@@ -91,6 +91,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0097-interleaving-string) |
@@ -110,6 +111,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
@@ -226,6 +228,7 @@ The code is organized by topic to make navigation easier:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0077-combinations) |
