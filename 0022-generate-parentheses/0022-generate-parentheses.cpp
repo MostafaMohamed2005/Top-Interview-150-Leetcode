@@ -18,7 +18,7 @@ public:
     }
 
     void solve(string&s, int n){
-        cout << s << endl;
+        //cout << s << endl;
         if(s.size() == n){
             if(check(s))
             ans.push_back(s);
