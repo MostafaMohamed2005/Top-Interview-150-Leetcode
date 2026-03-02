@@ -17,25 +17,28 @@ public:
         return (cnt > 0 ? false : true);
     }
 
-    void solve(string&s, int n){
+    void solve(string&s, int n,int cnt){
         //cout << s << endl;
+    
         if(s.size() == n){
             if(check(s))
             ans.push_back(s);
             return;
         }
 
+        if(cnt < 0)
+        return;
 
         s.push_back('(');
-        solve(s,n);
+        solve(s,n,cnt+1);
         s.pop_back();
         s.push_back(')');
-        solve(s,n);
+        solve(s,n,cnt-1);
         s.pop_back();
     }
     vector<string> generateParenthesis(int n) {
         string s = "";
-        solve(s,2*n);
+        solve(s,2*n,0);
         return ans;            
     }
 };
