@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int in_freq[2002]={},n = numCourses,m = prerequisites.size();
+        int in_freq[2002]={},n = numCourses,m = prerequisites.size(),cnt = 0;
         vector<int>adj[2002];
 
 
@@ -16,7 +16,7 @@ public:
         queue<int>q;    
         for(int i=0 ; i < n ; i++){
             if(!in_freq[i])
-            q.push(i);
+            q.push(i),cnt++;
         }
 
         while(!q.empty()){
@@ -27,15 +27,11 @@ public:
                 in_freq[ch]--;
                 if(!in_freq[ch]){
                     q.push(ch);
+                    cnt++;
                 }
             }
         }
 
-        for(int i=0 ; i < n ; i++){
-            if(in_freq[i])
-            return false;
-        }
-
-        return true;
+        return (cnt == n);
     }
 };
