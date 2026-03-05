@@ -68,6 +68,7 @@ The code is organized by topic to make navigation easier:
 | [0300-longest-increasing-subsequence](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
 ## Binary Search
 |  |
@@ -119,6 +120,7 @@ The code is organized by topic to make navigation easier:
 | [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
+| [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 ## Trie
 |  |
 | ------- |
@@ -133,6 +135,7 @@ The code is organized by topic to make navigation easier:
 | [0207-course-schedule](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bit Manipulation
@@ -213,6 +216,7 @@ The code is organized by topic to make navigation easier:
 | [0133-clone-graph](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
@@ -252,15 +256,21 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
