@@ -125,6 +125,7 @@ The code is organized by topic to make navigation easier:
 | [0127-word-ladder](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Trie
@@ -132,6 +133,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -226,6 +229,7 @@ The code is organized by topic to make navigation easier:
 | [0133-clone-graph](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
