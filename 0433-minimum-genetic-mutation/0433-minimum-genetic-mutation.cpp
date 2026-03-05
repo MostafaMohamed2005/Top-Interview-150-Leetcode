@@ -1,17 +1,6 @@
 class Solution {
 public:
     int minMutation(string startGene, string endGene, vector<string>& bank) {
-        // unordered_map<int,vector<string>>adj;
-
-        // for(int i=0 ; i < bank.size() ; i++){
-        //     int changes = 0;
-        //     for(int j=0 ; j < bank[i].size() ; j++){
-        //         if(bank[i][j] != startGene[j])
-        //         changes++;
-        //     }
-
-        //     adj[changes].push_back(bank[i]);
-        // }
 
         queue<pair<string,int>>q;
         q.push({startGene,0});
