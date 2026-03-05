@@ -84,6 +84,7 @@ The code is organized by topic to make navigation easier:
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -120,6 +121,7 @@ The code is organized by topic to make navigation easier:
 | [0067-add-binary](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -132,6 +134,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0207-course-schedule) |
