@@ -50,11 +50,13 @@ public:
 
     void solve(int i, int j, string &s, vector<vector<char>>& board){
         //cout << s << endl;
-        insert(s);
-        if(s.size() == 10){
+        if(s.size() == min(10,n*m)){
+            insert(s);
             return;
         }
 
+
+        bool change = false;
         vis[i][j] = true;
 
         for(int z=0 ; z < 4 ; z++){
@@ -64,11 +66,15 @@ public:
                 s.push_back(board[x][y]);
                 solve(x,y,s,board);
                 s.pop_back();
+                change = true;
             }
         }
 
         vis[i][j] = false;
-    }
+        if(!change){
+            insert(s);
+        }
+    }   
 
     
     vector<string> findWords(vector<vector<char>>& board, vector<string>& words) {
