@@ -50,6 +50,7 @@ The code is organized by topic to make navigation easier:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -100,6 +101,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0097-interleaving-string) |
@@ -169,6 +171,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0190-reverse-bits) |
