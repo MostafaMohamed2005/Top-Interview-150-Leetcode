@@ -72,6 +72,7 @@ The code is organized by topic to make navigation easier:
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ The code is organized by topic to make navigation easier:
 | [0221-maximal-square](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -176,6 +178,7 @@ The code is organized by topic to make navigation easier:
 | [0148-sort-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -295,4 +298,12 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
