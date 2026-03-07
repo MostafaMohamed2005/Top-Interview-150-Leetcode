@@ -64,6 +64,7 @@ The code is organized by topic to make navigation easier:
 | [0162-find-peak-element](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
@@ -126,6 +127,7 @@ The code is organized by topic to make navigation easier:
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Trie
@@ -134,6 +136,7 @@ The code is organized by topic to make navigation easier:
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0212-word-search-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,6 +213,7 @@ The code is organized by topic to make navigation easier:
 | [0074-search-a-2d-matrix](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0221-maximal-square) |
 ## Tree
 |  |
@@ -266,6 +270,7 @@ The code is organized by topic to make navigation easier:
 | [0052-n-queens-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0212-word-search-ii) |
 ## Union-Find
 |  |
 | ------- |
