@@ -111,6 +111,7 @@ The code is organized by topic to make navigation easier:
 | [0070-climbing-stairs](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0198-house-robber) |
@@ -236,6 +237,7 @@ The code is organized by topic to make navigation easier:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -243,6 +245,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0079-word-search](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0207-course-schedule) |
@@ -266,6 +269,7 @@ The code is organized by topic to make navigation easier:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
