@@ -214,6 +214,7 @@ The code is organized by topic to make navigation easier:
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -241,6 +242,7 @@ The code is organized by topic to make navigation easier:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -265,6 +267,7 @@ The code is organized by topic to make navigation easier:
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -277,6 +280,7 @@ The code is organized by topic to make navigation easier:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -333,9 +337,14 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0224-basic-calculator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
