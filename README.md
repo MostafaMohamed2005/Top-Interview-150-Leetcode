@@ -74,6 +74,7 @@ The code is organized by topic to make navigation easier:
 | [0322-coin-change](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0502-ipo) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
@@ -187,6 +188,7 @@ The code is organized by topic to make navigation easier:
 | [0148-sort-list](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0191-number-of-1-bits) |
+| [0427-construct-quad-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -231,6 +233,7 @@ The code is organized by topic to make navigation easier:
 | [0130-surrounded-regions](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0221-maximal-square) |
+| [0427-construct-quad-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0427-construct-quad-tree) |
 ## Tree
 |  |
 | ------- |
@@ -244,6 +247,7 @@ The code is organized by topic to make navigation easier:
 | [0124-binary-tree-maximum-path-sum](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
