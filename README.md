@@ -42,6 +42,7 @@ The code is organized by topic to make navigation easier:
 | [0070-climbing-stairs](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0224-basic-calculator) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@ The code is organized by topic to make navigation easier:
 | [0208-implement-trie-prefix-tree](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0224-basic-calculator) |
 | [0399-evaluate-division](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Trie
@@ -323,4 +325,12 @@ The code is organized by topic to make navigation easier:
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/MostafaMohamed2005/Top-Interview-150-Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
